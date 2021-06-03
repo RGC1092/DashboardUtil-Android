@@ -6,7 +6,7 @@ public class LogDebug {
 
     private static final String TAG = "WELCOME TO MY APP";
 
-    public static void d(String msg){
+    public static void data(String msg){
         Log.d(TAG, msg);
     }
 }
