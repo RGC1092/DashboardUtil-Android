@@ -1,3 +1,4 @@
+include ':errorUtil'
 include ':DashboardUtil'
 include ':app'
 rootProject.name = "DashboardDesign"
