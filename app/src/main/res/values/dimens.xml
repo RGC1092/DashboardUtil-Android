@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="fab_margin">30dp</dimen>
+    <dimen name="design_fab_image_size" tools:override="true">56dp</dimen>
+    <dimen name="dimension0dp">0dp</dimen>
+    <dimen name="dimension05dp">0.5dp</dimen>
+    <dimen name="dimension1dp">1dp</dimen>
+    <dimen name="dimension2dp">2dp</dimen>
+    <dimen name="dimension3dp">3dp</dimen>
+    <dimen name="dimension5dp">5dp</dimen>
+    <dimen name="dimension8dp">8dp</dimen>
+    <dimen name="dimension10dp">10dp</dimen>
+    <dimen name="dimension12dp">12dp</dimen>
+    <dimen name="dimension15dp">15dp</dimen>
+    <dimen name="dimension16dp">16dp</dimen>
+    <dimen name="dimension18dp">18dp</dimen>
+    <dimen name="dimension20dp">20dp</dimen>
+    <dimen name="dimension25dp">25dp</dimen>
+    <dimen name="dimension30dp">30dp</dimen>
+    <dimen name="dimension35dp">35dp</dimen>
+    <dimen name="dimension40dp">40dp</dimen>
+    <dimen name="dimension45dp">45dp</dimen>
+    <dimen name="dimension50dp">50dp</dimen>
+    <dimen name="dimension70dp">70dp</dimen>
+    <dimen name="dimension80dp">80dp</dimen>
+    <dimen name="dimension90dp">90dp</dimen>
+    <dimen name="dimension100dp">100dp</dimen>
+    <dimen name="dimension120dp">120dp</dimen>
+    <dimen name="dimension150dp">150dp</dimen>
+    <dimen name="dimension160dp">160dp</dimen>
+    <dimen name="dimension200dp">200dp</dimen>
+    <dimen name="dimension250dp">250dp</dimen>
+    <dimen name="label_text_size">12sp</dimen>
+    <dimen name="error_label_spacing">12dp</dimen>
+    <dimen name="floating_label_bottom_spacing">8dp</dimen>
+    <dimen name="floating_label_inside_spacing">12dp</dimen>
+    <dimen name="floating_label_top_spacing">4dp</dimen>
+    <dimen name="min_content_height">20dp</dimen>
+    <dimen name="right_left_spinner_padding">8dp</dimen>
+    <dimen name="underline_bottom_spacing">4dp</dimen>
+    <dimen name="underline_top_spacing">8dp</dimen>
+    <dimen name="dimension14dp">14dp</dimen>
+    <dimen name="dimension500dp">500dp</dimen>
+    <dimen name="dimension400dp">400dp</dimen>
+    <dimen name="dimension170dp">170dp</dimen>
+    <dimen name="dimension4dp">4dp</dimen>
+    <dimen name="dimension230dp">230dp</dimen>
+
+    <dimen name="labeled_default_width">72dp</dimen>
+    <dimen name="labeled_default_height">32dp</dimen>
+    <dimen name="dimension210dp">210dp</dimen>
+    <dimen name="dimension350dp">350dp</dimen>
+    <dimen name="fab_size">64</dimen>
+    <dimen name="dimension110dp">110dp</dimen>
+    <dimen name="dimension60dp">60dp</dimen>
+</resources>

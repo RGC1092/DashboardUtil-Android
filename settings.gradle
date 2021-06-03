@@ -1,0 +1,3 @@
+include ':DashboardUtil'
+include ':app'
+rootProject.name = "DashboardDesign"
